@@ -1,0 +1,2 @@
+# dijkstra
+my favorite algorithm
